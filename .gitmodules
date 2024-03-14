@@ -1,0 +1,4 @@
+[submodule "LIU-Infrastructure"]
+	path = LIU-Infrastructure
+	url = git@github.com:AbelardLiu/LIU-Infrastructure.git
+	branch = develop

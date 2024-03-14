@@ -1,0 +1,16 @@
+[submodule "Infrastructure"]
+	path = Infrastructure
+	url = git@github.com:AbelardLiu/LIU-Infrastructure.git
+	branch = develop
+[submodule "League"]
+	path = League
+	url = git@github.com:AbelardLiu/LIU-League.git
+	branch = develop
+[submodule "Learning"]
+	path = Learning
+	url = git@github.com:AbelardLiu/LIU-Learning.git
+	branch = develop
+[submodule "Inference"]
+	path = Inference
+	url = git@github.com:AbelardLiu/LIU-Inference.git
+	branch = develop
